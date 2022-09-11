@@ -1,6 +1,6 @@
 # set_solver
 
-A computer vision based approach to solving the game Set backed by math principles form combinatorics.
+A computer vision based approach to solving the game Set backed by math principles from combinatorics.
 
 ## Getting Started
 
