@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>271.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\red\diamond\partial\271.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>75</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two red diamond partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>6</ymin>
+			<xmax>88</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

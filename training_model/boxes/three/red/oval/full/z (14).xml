@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>z (14).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\red\oval\full\z (14).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>127</width>
+		<height>81</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three red oval full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>8</ymin>
+			<xmax>118</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

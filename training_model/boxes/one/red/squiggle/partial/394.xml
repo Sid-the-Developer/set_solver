@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>394.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\red\squiggle\partial\394.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>98</width>
+		<height>57</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one red squiggle partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>4</ymin>
+			<xmax>60</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+</annotation>

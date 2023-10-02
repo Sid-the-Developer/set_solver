@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>three_green_oval_full.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\green\oval\full\three_green_oval_full.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>89</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three green oval full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>11</ymin>
+			<xmax>119</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

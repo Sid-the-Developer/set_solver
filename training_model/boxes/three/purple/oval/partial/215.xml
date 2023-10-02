@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>215.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\purple\oval\partial\215.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>111</width>
+		<height>72</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three purple oval partial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>107</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

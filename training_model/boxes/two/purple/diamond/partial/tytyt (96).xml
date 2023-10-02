@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>tytyt (96).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\purple\diamond\partial\tytyt (96).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>102</width>
+		<height>67</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two purple diamond partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>4</ymin>
+			<xmax>82</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

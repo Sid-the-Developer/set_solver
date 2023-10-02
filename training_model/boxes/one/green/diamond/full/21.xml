@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>21.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\green\diamond\full\21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>109</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one green diamond full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>6</ymin>
+			<xmax>68</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

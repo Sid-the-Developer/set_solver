@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>313.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\purple\squiggle\partial\313.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>102</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three purple squiggle partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>4</ymin>
+			<xmax>95</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

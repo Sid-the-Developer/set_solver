@@ -1,0 +1,26 @@
+<annotation>
+	<folder>empty</folder>
+	<filename>465.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\red\diamond\empty\465.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>96</width>
+		<height>59</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two red diamond empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>3</ymin>
+			<xmax>77</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+</annotation>

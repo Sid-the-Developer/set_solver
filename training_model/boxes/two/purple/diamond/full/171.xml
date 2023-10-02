@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>171.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\purple\diamond\full\171.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>108</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two purple diamond full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>5</ymin>
+			<xmax>84</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

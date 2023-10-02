@@ -1,0 +1,26 @@
+<annotation>
+	<folder>empty</folder>
+	<filename>266.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\red\diamond\empty\266.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>101</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one red diamond empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>4</ymin>
+			<xmax>64</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

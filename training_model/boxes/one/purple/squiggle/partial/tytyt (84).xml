@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>tytyt (84).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\purple\squiggle\partial\tytyt (84).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>99</width>
+		<height>62</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one purple squiggle partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>6</ymin>
+			<xmax>61</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

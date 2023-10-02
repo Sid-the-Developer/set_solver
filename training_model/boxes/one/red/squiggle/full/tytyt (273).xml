@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>tytyt (273).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\red\squiggle\full\tytyt (273).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>101</width>
+		<height>58</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one red squiggle full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>4</ymin>
+			<xmax>62</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

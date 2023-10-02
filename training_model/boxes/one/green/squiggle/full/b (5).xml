@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>b (5).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\green\squiggle\full\b (5).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>103</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one green squiggle full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>18</ymin>
+			<xmax>98</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

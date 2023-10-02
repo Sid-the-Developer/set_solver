@@ -1,0 +1,26 @@
+<annotation>
+	<folder>empty</folder>
+	<filename>old (84).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\red\squiggle\empty\old (84).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>117</width>
+		<height>76</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one red squiggle empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>12</ymin>
+			<xmax>72</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>asdf.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\green\diamond\partial\asdf.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>97</width>
+		<height>60</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two green diamond partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>4</ymin>
+			<xmax>78</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

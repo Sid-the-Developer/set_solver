@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>old (27).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\purple\oval\full\old (27).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>131</width>
+		<height>81</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three purple oval full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>3</ymin>
+			<xmax>120</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>tytyt (203).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\purple\oval\full\tytyt (203).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>99</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two purple oval full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>6</ymin>
+			<xmax>81</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

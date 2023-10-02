@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>36.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\red\oval\partial\36.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>63</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two red oval partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>5</ymin>
+			<xmax>84</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>empty</folder>
+	<filename>tytyt (195).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\red\diamond\empty\tytyt (195).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>103</width>
+		<height>62</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three red diamond empty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>99</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

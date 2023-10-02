@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>542.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\green\oval\full\542.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>108</width>
+		<height>68</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one green oval full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>5</ymin>
+			<xmax>68</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>

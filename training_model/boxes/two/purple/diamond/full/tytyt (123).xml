@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>tytyt (123).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\purple\diamond\full\tytyt (123).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>95</width>
+		<height>53</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two purple diamond full</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>1</ymin>
+			<xmax>77</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

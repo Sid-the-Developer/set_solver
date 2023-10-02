@@ -1,0 +1,26 @@
+<annotation>
+	<folder>full</folder>
+	<filename>182.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\red\oval\full\182.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>65</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two red oval full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>3</ymin>
+			<xmax>84</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>

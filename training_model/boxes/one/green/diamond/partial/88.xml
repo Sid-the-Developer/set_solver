@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>88.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\green\diamond\partial\88.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>97</width>
+		<height>53</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one green diamond partial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>1</ymin>
+			<xmax>62</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>

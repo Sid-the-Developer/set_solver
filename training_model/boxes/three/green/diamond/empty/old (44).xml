@@ -1,0 +1,26 @@
+<annotation>
+	<folder>empty</folder>
+	<filename>old (44).png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\three\green\diamond\empty\old (44).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>142</width>
+		<height>94</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three green diamond empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>10</ymin>
+			<xmax>131</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

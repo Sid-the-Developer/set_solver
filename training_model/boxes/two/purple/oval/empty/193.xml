@@ -1,0 +1,26 @@
+<annotation>
+	<folder>empty</folder>
+	<filename>193.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\purple\oval\empty\193.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>104</width>
+		<height>66</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two purple oval empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>5</ymin>
+			<xmax>86</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial</folder>
+	<filename>492.png</filename>
+	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\two\green\oval\partial\492.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>113</width>
+		<height>72</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two green oval partial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>6</ymin>
+			<xmax>89</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>
