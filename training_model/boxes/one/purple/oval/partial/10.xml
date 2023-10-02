@@ -1,6 +1,6 @@
 <annotation>
-	<folder>partial</folder>
-	<filename>10.png</filename>
+	<folder>one\purple\oval\partial</folder>
+	<filename>one_purple_oval_partial_10.jpg</filename>
 	<path>C:\Users\swrig\StudioProjects\set_solver\training_model\dataSET\one\blue\oval\partial\10.png</path>
 	<source>
 		<database>Unknown</database>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>one blue oval partial</name>
+		<name>one purple oval partial</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
