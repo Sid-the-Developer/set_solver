@@ -1,8 +1,6 @@
-import 'package:flutter/material.dart';
-
 class Card {
   int _num;
-  Color _color;
+  CardColor _color;
   Shape _shape;
   Fill _fill;
 
@@ -17,6 +15,10 @@ class Card {
         _fill = fill;
 }
 
-enum Fill { solid, open, striped }
+enum Fill { empty, partial, full }
 
-enum Shape { pill, diamond, squiggle }
+enum Shape { diamond, oval, squiggle }
+
+enum CardColor { red, green, purple }
+
+enum Num { one, two, three }

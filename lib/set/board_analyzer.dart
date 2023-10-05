@@ -1,4 +1,4 @@
-import 'package:set_solver/card.dart';
+import 'package:set_solver/set/card.dart';
 import 'package:tuple/tuple.dart';
 
 class BoardAnalyzer {
