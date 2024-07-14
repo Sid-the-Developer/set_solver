@@ -1,0 +1,94 @@
+description: Ultralytics best model trained on dataSET.yaml
+author: Ultralytics
+date: '2024-07-07T18:18:22.347778'
+version: 8.2.50
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 256
+- 256
+names:
+  0: one red diamond empty
+  1: one red diamond partial
+  2: one red diamond full
+  3: one red oval empty
+  4: one red oval partial
+  5: one red oval full
+  6: one red squiggle empty
+  7: one red squiggle partial
+  8: one red squiggle full
+  9: one green diamond empty
+  10: one green diamond partial
+  11: one green diamond full
+  12: one green oval empty
+  13: one green oval partial
+  14: one green oval full
+  15: one green squiggle empty
+  16: one green squiggle partial
+  17: one green squiggle full
+  18: one purple diamond empty
+  19: one purple diamond partial
+  20: one purple diamond full
+  21: one purple oval empty
+  22: one purple oval partial
+  23: one purple oval full
+  24: one purple squiggle empty
+  25: one purple squiggle partial
+  26: one purple squiggle full
+  27: two red diamond empty
+  28: two red diamond partial
+  29: two red diamond full
+  30: two red oval empty
+  31: two red oval partial
+  32: two red oval full
+  33: two red squiggle empty
+  34: two red squiggle partial
+  35: two red squiggle full
+  36: two green diamond empty
+  37: two green diamond partial
+  38: two green diamond full
+  39: two green oval empty
+  40: two green oval partial
+  41: two green oval full
+  42: two green squiggle empty
+  43: two green squiggle partial
+  44: two green squiggle full
+  45: two purple diamond empty
+  46: two purple diamond partial
+  47: two purple diamond full
+  48: two purple oval empty
+  49: two purple oval partial
+  50: two purple oval full
+  51: two purple squiggle empty
+  52: two purple squiggle partial
+  53: two purple squiggle full
+  54: three red diamond empty
+  55: three red diamond partial
+  56: three red diamond full
+  57: three red oval empty
+  58: three red oval partial
+  59: three red oval full
+  60: three red squiggle empty
+  61: three red squiggle partial
+  62: three red squiggle full
+  63: three green diamond empty
+  64: three green diamond partial
+  65: three green diamond full
+  66: three green oval empty
+  67: three green oval partial
+  68: three green oval full
+  69: three green squiggle empty
+  70: three green squiggle partial
+  71: three green squiggle full
+  72: three purple diamond empty
+  73: three purple diamond partial
+  74: three purple diamond full
+  75: three purple oval empty
+  76: three purple oval partial
+  77: three purple oval full
+  78: three purple squiggle empty
+  79: three purple squiggle partial
+  80: three purple squiggle full
