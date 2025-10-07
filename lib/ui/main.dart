@@ -2,6 +2,7 @@ import 'dart:async';
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:ultralytics_yolo/ultralytics_yolo.dart';
 
 List<CameraDescription> cameras = [];
 
@@ -126,17 +127,24 @@ class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: Center(
-          child: SingleChildScrollView(
-              child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: <Widget>[
-                const Text(
-                  'Make sure the entire board is clearly in view',
-                ),
-                CameraPreview(cameraController)
-              ])),
-        ),
+        child: YOLOView(modelPath: 'best_float32', task: YOLOTask.detect,
+        onResult: (results) {
+          print('Found ${results.length} objects!');
+          for (final result in results) {
+            print('${result.className}: ${result.confidence}');
+          }
+        },)
+        // Center(
+        //   child: SingleChildScrollView(
+        //       child: Column(
+        //           mainAxisAlignment: MainAxisAlignment.center,
+        //           children: <Widget>[
+        //         const Text(
+        //           'Make sure the entire board is clearly in view',
+        //         ),
+        //         CameraPreview(cameraController)
+        //       ])),
+        // ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () => cameraController.takePicture(),
